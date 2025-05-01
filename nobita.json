@@ -1,0 +1,29 @@
+{
+  "author": "𝐍𝐎𝐁𝐈𝐓𝐀",
+  "autoRestart": true,
+  "accpetPending": false,
+  "developermode": false,
+  "language": "en",
+  "notification": false,
+  "approval": false,
+  "saveState": true,
+  "banMsg": false,
+  "adminOnlyMsg": false,
+  "BOTNAME": "𝐍𝐎𝐁𝐈𝐓𝐀",
+  "PREFIX": "~",
+  "OPERATOR": [
+    "61573969291069",
+    "61572363668249"
+  ],
+  "ADMINBOT": [
+    "61564446365276",
+    ""
+  ],
+  "OWNER": ["61564446365276"], 
+  "APPROVED": [],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase",
+  "notice": "dont cng author name and owner uid. otherwise bot not working",
+  "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
+}
