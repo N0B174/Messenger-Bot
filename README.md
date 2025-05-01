@@ -1,8 +1,8 @@
 ## ABOUT ME
 
-name : ```Nayan Developer```</br>
-age : ```20```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100000959749712).</br>
+name : ```𝐍𝐎𝐁𝐈𝐓𝐀```</br>
+age : ```16```</br>
+link : [facebook](https://www.facebook.com/T.nobita.csd).</br>
 
 ## CREDITS
 
